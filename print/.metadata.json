@@ -1,0 +1,95 @@
+{
+    "MU_3DPJZX100.gcode": {
+        "DisplayLayerProgress": {
+            "totalLayerCountWithoutOffset": "303"
+        },
+        "statistics": {
+            "averagePrintTime": {},
+            "lastPrintTime": {}
+        },
+        "hash": "8aff18f6c84c8f071be300846c9a426be63b6d72",
+        "analysis": {
+            "estimatedPrintTime": 27794.41582161626,
+            "printingArea": {
+                "maxZ": 45.75,
+                "maxX": 197.964,
+                "maxY": 142.945,
+                "minX": 2.097,
+                "minY": 57.1,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 195.867,
+                "depth": 85.845,
+                "height": 45.45
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 31338.171039998066
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1607495827.262762,
+                "printerProfile": "_default",
+                "success": false
+            },
+            {
+                "timestamp": 1607497313.882442,
+                "printerProfile": "_default",
+                "success": false
+            },
+            {
+                "timestamp": 1607525760.843113,
+                "printerProfile": "_default",
+                "success": false
+            }
+        ]
+    },
+    "MU_20x20.gcode": {
+        "DisplayLayerProgress": {
+            "totalLayerCountWithoutOffset": "0"
+        },
+        "statistics": {
+            "averagePrintTime": {},
+            "lastPrintTime": {}
+        },
+        "hash": "484f3c1bde8b6739e13db170b2af488e014203ac",
+        "analysis": {
+            "estimatedPrintTime": 1251.1981763348156,
+            "printingArea": {
+                "maxZ": 0.3,
+                "maxX": 193.2,
+                "maxY": 193.2,
+                "minX": 6.8,
+                "minY": 6.8,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 186.39999999999998,
+                "depth": 186.39999999999998,
+                "height": 0.0
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 608.0007899999996
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1607473859.930226,
+                "printerProfile": "_default",
+                "success": false
+            },
+            {
+                "timestamp": 1607496687.111436,
+                "printerProfile": "_default",
+                "success": false
+            }
+        ]
+    }
+}

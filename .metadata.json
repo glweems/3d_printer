@@ -1,0 +1,86 @@
+{
+    "MU_All_parts_200x200x115_mm_build_volume.gcode": {
+        "analysis": {
+            "estimatedPrintTime": 420.31246419883,
+            "printingArea": {
+                "maxZ": 0.3,
+                "minX": 10.2,
+                "maxX": 189.8,
+                "maxY": 189.8,
+                "minY": 10.2,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 179.60000000000002,
+                "depth": 179.60000000000002,
+                "height": 0.0
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 569.3474400000001
+                }
+            }
+        },
+        "hash": "baba2fd3a9d7a801adb607f8319d66ac5b5e8343",
+        "history": [
+            {
+                "timestamp": 1607641403.8669147,
+                "printTime": 512.7736225110002,
+                "success": true,
+                "printerProfile": "_default"
+            }
+        ],
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 512.7736225110002
+            },
+            "lastPrintTime": {
+                "_default": 512.7736225110002
+            }
+        }
+    },
+    "MU02_DeWalt_60v20V_Battery_Holder_DRAFT.gcode": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 12091.993062649999
+            },
+            "lastPrintTime": {
+                "_default": 12091.993062649999
+            }
+        },
+        "hash": "d51f79ef5139fe52aa9c120b46cd704f76b227fa",
+        "analysis": {
+            "estimatedPrintTime": 10318.62751660566,
+            "printingArea": {
+                "maxZ": 25.5,
+                "maxX": 137.645,
+                "maxY": 143.613,
+                "minX": 62.355,
+                "minY": 48.386,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 75.29000000000002,
+                "depth": 95.227,
+                "height": 25.2
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 14615.707949999418
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1607605854.778521,
+                "printTime": 12091.993062649999,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "MU015_i3_tensioner_2_REMIX_Y_Axis.gcode": {},
+    "MU02_MakerBot_Headphone_Stand.gcode": {}
+}

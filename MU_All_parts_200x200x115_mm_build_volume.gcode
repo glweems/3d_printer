@@ -27,13 +27,14 @@ G21 ;metric values
  G1 F200 E6 ;extrude 6 mm of feed stock
  G92 E0 ;zero the extruded length again
  G1 F120 
- ;Put printing message on LCD screen
+;Put printing message on LCD screen
  M117 Printing...
 G92 E0
 G92 E0
 G1 F1500 E-6.5
 ;LAYER_COUNT:1
 ;LAYER:0
+M117 INDICATOR-Layer0
 M107
 ;MESH:20x20.stl
 G0 F3600 X39.4 Y39.4 Z0.3
